@@ -35,3 +35,11 @@ The `.jpg` files are in many kinds as for their origin. I have copies of the ra
 
 To be honest, I don't know if these make any difference.
 
+## The Situation
+
+I had this external drive for almost two years now and to be honest, I don't remember what the original file system was. I own a MacBook Pro, so it is either HFS or a Fat32 file system.
+
+To make things even more complicated, when I realised what I have done, I pulled the drive off the computer so the formatting was interrupted.
+
+Again, I have no idea whether this is a good thing or if I only made things worse.
+
