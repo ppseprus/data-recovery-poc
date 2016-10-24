@@ -56,3 +56,20 @@ Again, I have no idea whether this is a good thing or if I only made things wors
 7. Try every possible way of recovery
 8. Assess results and note observations
 
+## The Test Data
+
+Root
+- **test folder 1**
+	- **first level subfolder**
+		- **second level subfolder**
+			- Photoshop edited `.jpg` files
+		- raw `.jpg` files recorded with my phone
+	- **roll film scans**
+		- raw `.jpg` files created by the scanner
+		- `.psd` files of the above
+	- a random `.mov` video recording
+- a random `.wav` file
+- a `.gif` of friends
+
+The total size of the data is 4.22GB.
+
