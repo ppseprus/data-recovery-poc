@@ -18,3 +18,12 @@ I have to have that back.
 
 I'll attempt to have the files back while also restore the file system.
 
+## The Solution
+
+Most probably I know only as much as the next guy, therefore, this is not about creating a new software. I will not be able to think of anything revolutionary. I will only use the softwares that are already available.
+
+The plan is to use a 32GB SD card to create a test environment to which I copy similar files only to format that very card.
+Than I will compare multiple softwares to determine which is the best for my situation.
+
+The outcome shall be a _choice of software_ that I will use to recover the most of what is lost. But this is most probably highly dependant on the original, damaged file system, therefore, _this is rather a kind of blog post than an actual howto_.
+
