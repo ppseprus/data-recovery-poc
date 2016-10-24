@@ -84,3 +84,24 @@ This might be important so I mention it. I think I was about to format the SD ca
 
 Step nr. 5 is split thanks to my uncertanty.
 
+## The Tests
+
+### Test Case #1
+
+Original file system: **MacOS Extended (Journaled)**
+Destination file system: **Fat32**
+Recovery tool: **EaseUS 10.8 (unlicensed), deep scan mode**
+
+#### Notes
+* The application lists all the partitions it finds.
+* One of the listing described the folder structure I was looking for, however, through that listing, none of the files could be opened. (Approximately 250Mb of data was recovered)
+* Scrolling through the raw folders, tons of data emerge from the card. I've found stuffs that are some years old.
+* Most of the files that have lost their file names and folder structure, had at least a creation date. That's something I could work with!
+* Under an _ExFat_ system, files were uncovered with file names and folder structure.
+* Under raw folders, I've found ~17MB `.NEF` files that I could recover and open, but they've lsot their file names and folder structures.
+* Finally, I've found most of the files, but not with their intended names.
+
+#### Conclusion
+Worst case scenerio, with tons of effort, I might be able to recover the data and pair files with their names.
+I suspect that that what matters the most is from which file system did I format to which other.
+
