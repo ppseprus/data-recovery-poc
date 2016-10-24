@@ -1,0 +1,20 @@
+# Data Recovery POC
+
+## The Problem
+
+A few days ago, I've formatted a 2TB external drive that contained approximately 10 years of my life.
+
+I used to be a photographer and most of the stuff gone are raw photographs, however, I also had hours of videos recorded of intimate moments with friends and family.
+
+There's a company which might be able to restore all that, but they are very pricey.
+
+Previously, I had my unfortunate encounters with data recovery tools and the most important things I learned are 1) that no recovery is a 100% successful, and 2) that you almost certanly loose the file system - the structure that kept things together.
+
+With 10 years of visual data, subjects are separated to subfolders, years are split to different folders, locations are stored with the folder names... etc.
+Anyone who ever wanted to organise an aweful lot of data, know that there has to be a system to it.
+Accessing any file without searching for it for hours is only possible with a well-designed system.
+
+I have to have that back.
+
+I'll attempt to have the files back while also restore the file system.
+
