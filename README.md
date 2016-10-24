@@ -27,3 +27,11 @@ Than I will compare multiple softwares to determine which is the best for my sit
 
 The outcome shall be a _choice of software_ that I will use to recover the most of what is lost. But this is most probably highly dependant on the original, damaged file system, therefore, _this is rather a kind of blog post than an actual howto_.
 
+## The Data
+
+I have a Nikon, so the main target is the `.NEF` file - the Nikon Electronic File.
+The videos have nothing special to them, but I had tons of `.psd` files on the drive too.
+The `.jpg` files are in many kinds as for their origin. I have copies of the raw Nikon files as well as compressed copies of the `.psd`s. I also had lots of old photographs scanned.
+
+To be honest, I don't know if these make any difference.
+
