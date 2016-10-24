@@ -78,3 +78,9 @@ Root
 
 The total size of the data is 4.22GB.
 
+## An Assumption
+
+This might be important so I mention it. I think I was about to format the SD card to be a Fat32 file system, however, I'm not sure about this.
+
+Step nr. 5 is split thanks to my uncertanty.
+
