@@ -37,6 +37,8 @@ To be honest, I don't know if these make any difference.
 
 ## The Situation
 
+I wanted to to format an SD card...
+
 I had this external drive for almost two years now and to be honest, I don't remember what the original file system was. I own a MacBook Pro, so it is either HFS or a Fat32 file system.
 
 To make things even more complicated, when I realised what I have done, I pulled the drive off the computer so the formatting was interrupted.
@@ -47,14 +49,17 @@ Again, I have no idea whether this is a good thing or if I only made things wors
 
 1. Organise the test data
 2. Create a local copy of the test data
-3. Format the SD card
+3. Format the SD card, using _Disk Utility_
 	A. Mac OS Extended (Journaled)
 	B. Fat32
 4. Copy the test data onto the SD card
-5. Format the SD card
-6. Select a program for _the list_
-7. Try every possible way of recovery
-8. Assess results and note observations
+5. Format the SD card, using _Disk Utility_
+	A. Fat32
+	B. ExFat
+6. **Interrupt the formatting**
+7. Select a program for _the list_
+8. Try every possible way of recovery
+9. Assess results and note observations
 
 ## The Test Data
 
