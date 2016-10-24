@@ -43,3 +43,16 @@ To make things even more complicated, when I realised what I have done, I pulled
 
 Again, I have no idea whether this is a good thing or if I only made things worse.
 
+## The Steps
+
+1. Organise the test data
+2. Create a local copy of the test data
+3. Format the SD card
+	A. Mac OS Extended (Journaled)
+	B. Fat32
+4. Copy the test data onto the SD card
+5. Format the SD card
+6. Select a program for _the list_
+7. Try every possible way of recovery
+8. Assess results and note observations
+
