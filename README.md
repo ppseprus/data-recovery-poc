@@ -111,3 +111,14 @@ Recovery tool: **EaseUS 10.8 (unlicensed), deep scan mode**
 * Worst case scenario, with tons of effort, I might be able to recover the data and pair the files with their names.
 * I suspect that that what matters the most is from which file system did I format the partition to which other.
 
+### Test Case #2
+
+Original file system: **MacOS Extended (Journaled)**
+
+Destination file system: **Fat32**
+
+Recovery tool: **TestDisk 7.0**
+
+#### Notes
+* After an intensive 10 hours, I have to admit, I have no idea how to use this software.
+
