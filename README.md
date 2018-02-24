@@ -39,7 +39,7 @@ The `.jpg` files are in many kinds as for their origin. I have copies of the ra
 
 To be honest, I don't know if these make any difference.
 
-## The Situation
+## The Situation
 
 I wanted to to format an SD card...
 
@@ -82,7 +82,7 @@ Root
 
 The total size of the data is 4.22GB.
 
-## An Assumption
+## An Assumption
 
 This might be important so I mention it. I think I was about to format the SD card to be a Fat32 file system, however, I'm not sure about this.
 
@@ -90,7 +90,7 @@ Step nr. 5 is split thanks to my uncertanty.
 
 ## The Tests
 
-### Test Case #1
+### Test Case #1
 
 Original file system: **MacOS Extended (Journaled)**
 
@@ -111,7 +111,7 @@ Recovery tool: **EaseUS 10.8 (unlicensed), deep scan mode**
 * Worst case scenario, with tons of effort, I might be able to recover the data and pair the files with their names.
 * I suspect that that what matters the most is from which file system did I format the partition to which other.
 
-### Test Case #2
+### Test Case #2
 
 Original file system: **MacOS Extended (Journaled)**
 
